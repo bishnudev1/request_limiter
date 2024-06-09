@@ -8,13 +8,13 @@ To use this middleware, follow the steps below:
 
 1. **Clone the Repository**: 
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/bishnudev1/request_limiter.git
 
 2. Create a .env File:
 Create a file named .env in the root directory of your project and define your Redis connection details:
     ```sh
-  REDIS_ADDR=redis://<REDIS_HOST>:<REDIS_PORT>
-  REDIS_PASSWORD=<REDIS_PASSWORD>
+     REDIS_ADDR=redis://<REDIS_HOST>:<REDIS_PORT>
+     REDIS_PASSWORD=<REDIS_PASSWORD>
 
 3. Install Dependencies:
 Use go get to install the required dependencies:
