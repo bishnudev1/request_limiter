@@ -27,8 +27,5 @@ Use go get to install the required dependencies:
 
 5. Test your own Request Limiter API with
      ```
-     go run server.go
-
-
-
+     go run server.go     
 ## Feel free to contribute more features. I'll convert it into a package soon so that we can use it with any project with ease.
